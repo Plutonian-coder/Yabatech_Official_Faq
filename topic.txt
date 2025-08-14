@@ -1,0 +1,103 @@
+Computer Science & Technology 💻
+Introduction to Computing
+
+Data Structures and Algorithms
+
+Web Development
+
+Database Management Systems
+
+Operating Systems
+
+Computer Networks
+
+Programming in C++
+
+Java Programming
+
+Software Engineering
+
+System Analysis and Design
+
+Statistics for Computing
+
+Computer Graphics
+
+Artificial Intelligence
+
+Mobile Application Development
+
+Cyber Security
+
+Business & Management 📈
+Principles of Accounting
+
+Business Management
+
+Financial Accounting
+
+Human Resource Management
+
+Marketing
+
+Entrepreneurship
+
+Business Law
+
+Microeconomics
+
+Macroeconomics
+
+Public Administration
+
+Auditing
+
+Cost Accounting
+
+E-commerce
+
+Engineering & Sciences 🔬
+General Physics
+
+General Chemistry
+
+Technical Drawing
+
+Workshop Technology
+
+Calculus
+
+Differential Equations
+
+Engineering Mechanics
+
+Electrical Circuit Theory
+
+Digital Electronics
+
+Thermodynamics
+
+Fluid Mechanics
+
+Engineering Materials
+
+General & Social Studies 📚
+Communication Skills
+
+Use of English
+
+Nigerian Peoples and Culture
+
+History and Philosophy of Science
+
+Peace and Conflict Studies
+
+Introduction to Psychology
+
+Logic and Philosophy
+
+Industrial Law
+
+Research Methodology
+
+Intro to Internet and its Applications
